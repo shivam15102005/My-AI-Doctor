@@ -16,13 +16,16 @@ This project demonstrates end-to-end integration of AI APIs, speech processing, 
 ![Alt img](https://github.com/shivam15102005/My-AI-Doctor/blob/main/Patient%20Audio.png)
 
 - **Image Uploading**
+
  ![Alt img](https://github.com/shivam15102005/My-AI-Doctor/blob/main/Image%20Uploading.png)
 
 - **Doctor Response**
+
  ![Alt img](https://github.com/shivam15102005/My-AI-Doctor/blob/main/Doctor%20Response.png)
 
 - **Patient+Image+Doctor**
- ![Alt img](https://github.com/shivam15102005/My-AI-Doctor/blob/main/Patient%2BImage%2BDoctor.png)
+
+![Alt img](https://github.com/shivam15102005/My-AI-Doctor/blob/main/Patient%2BImage%2BDoctor.png)
 
 
  # 🏗 System Architecture
