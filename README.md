@@ -11,9 +11,18 @@ This project demonstrates end-to-end integration of AI APIs, speech processing, 
 - 🔊 **Text-to-Speech Response** - Converts AI-generated responses into natural voice using gTTS or ElevenLabs.
 - ⚡ **End-to-End Pipeline** - Voice → AI Analysis → Voice Response interaction pipeline.
   ## Images
-**Patient Audio Recording** 
+- **Patient Audio Recording** 
 
 ![Alt img](https://github.com/shivam15102005/My-AI-Doctor/blob/main/Patient%20Audio.png)
+
+- **Image Uploading**
+ ![Alt img](https://github.com/shivam15102005/My-AI-Doctor/blob/main/Image%20Uploading.png)
+
+- **Doctor Response**
+ ![Alt img](https://github.com/shivam15102005/My-AI-Doctor/blob/main/Doctor%20Response.png)
+
+- **Patient+Image+Doctor**
+ ![Alt img](https://github.com/shivam15102005/My-AI-Doctor/blob/main/Patient%2BImage%2BDoctor.png)
 
 
  # 🏗 System Architecture
