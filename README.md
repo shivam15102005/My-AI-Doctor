@@ -12,6 +12,7 @@ This project demonstrates end-to-end integration of AI APIs, speech processing, 
 - ⚡ **End-to-End Pipeline** - Voice → AI Analysis → Voice Response interaction pipeline.
 
  # 🏗 System Architecture
+ ```
  Patient Voice Input
         │
         ▼
@@ -28,3 +29,4 @@ Text-to-Speech (gTTS / ElevenLabs)
         │
         ▼
 Audio Response to User
+```
