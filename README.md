@@ -70,5 +70,7 @@ AI_Doctor
 ```
 ## ⚙️ Installation
 **1️⃣ Clone the repository**
+```
 git clone https://github.com/shivam15102005/My-AI-Doctor.git
 cd My Doctor AI
+```
