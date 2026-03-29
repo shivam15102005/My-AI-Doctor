@@ -13,20 +13,23 @@ This project demonstrates end-to-end integration of AI APIs, speech processing, 
 
  # 🏗 System Architecture
  ```
- Patient Voice Input
-        │
-        ▼
+ Patient Voice Input + Image Upload
+            │
+            ▼
 Speech Recognition (SpeechRecognition + PyAudio)
-        │
-        ▼
-AI Reasoning Engine (Groq LLM)
-        │
-        ▼
+            │
+            ▼
+Image Encoding & Processing (Base64 / Vision Input)
+            │
+            ▼
+AI Reasoning Engine (Groq Vision LLM)
+            │
+            ▼
 Response Generation
-        │
-        ▼
+            │
+            ▼
 Text-to-Speech (gTTS / ElevenLabs)
-        │
-        ▼
+            │
+            ▼
 Audio Response to User
 ```
