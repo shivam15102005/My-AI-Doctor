@@ -12,6 +12,7 @@ This project demonstrates end-to-end integration of AI APIs, speech processing, 
 - ⚡ **End-to-End Pipeline** - Voice → AI Analysis → Voice Response interaction pipeline.
   ## Images
 **Patient Audio Recording** 
+
 ![Alt img](https://github.com/shivam15102005/My-AI-Doctor/blob/main/Patient%20Audio.png)
 
 
