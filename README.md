@@ -80,7 +80,7 @@ pip install -r requirements.txt
 ```
 ## 3️⃣ Install system dependencies
 - Install FFmpeg for audio processing.
-  Windows:
+- For Windows:
   ```
   winget install ffmpeg
   ```
@@ -90,3 +90,20 @@ pip install -r requirements.txt
 GROQ_API_KEY=your_groq_api_key
 ELEVENLABS_API_KEY=your_elevenlabs_api_key
 ```
+## ▶️ Running the Project
+- Run the voice interaction pipeline:
+```
+python voice_of_patient.py
+```
+- or run individual modules:
+```
+python brain_of_the_doctor.py
+python voice_of_doctor.py
+```
+## 💡 Real-World Applications
+This system demonstrates how multimodal AI assistants can support healthcare by:
+- providing preliminary symptom analysis
+- enabling voice-based medical interaction
+- assisting in remote health guidance
+- supporting telemedicine and accessibility
+
