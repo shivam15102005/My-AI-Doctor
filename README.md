@@ -74,3 +74,19 @@ AI_Doctor
 git clone https://github.com/shivam15102005/My-AI-Doctor.git
 cd My Doctor AI
 ```
+## 2️⃣ Install dependencies
+```
+pip install -r requirements.txt
+```
+## 3️⃣ Install system dependencies
+- Install FFmpeg for audio processing.
+  Windows:
+  ```
+  winget install ffmpeg
+  ```
+## 🔑 Environment Variables
+- Create a .env file in the root directory.
+```
+GROQ_API_KEY=your_groq_api_key
+ELEVENLABS_API_KEY=your_elevenlabs_api_key
+```
