@@ -37,6 +37,7 @@ Audio Response to User
 
 **Languages**
 - Python
+  
 **Libraries & Tools**
 - SpeechRecognition
 - PyAudio
