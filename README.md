@@ -33,3 +33,17 @@ Text-to-Speech (gTTS / ElevenLabs)
             ▼
 Audio Response to User
 ```
+## 📂 Project Structure
+```
+AI_Doctor
+│
+├── voice_of_patient.py        # Records patient voice input
+├── brain_of_the_doctor.py     # AI reasoning using Groq LLM
+├── voice_of_doctor.py         # Converts AI response to speech
+│
+├── audio/                     # Generated audio responses
+├── images/                    # Sample medical images
+│
+├── requirements.txt
+└── README.md
+```
