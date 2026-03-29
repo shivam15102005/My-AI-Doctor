@@ -33,6 +33,24 @@ Text-to-Speech (gTTS / ElevenLabs)
             ▼
 Audio Response to User
 ```
+## 🛠 Tech Stack
+
+**Languages**
+- Python
+**Libraries & Tools**
+- SpeechRecognition
+- PyAudio
+- gTTS
+- ElevenLabs API
+- Groq API
+- Pydub
+- FFmpeg
+**Concepts Used**
+- Multimodal AI systems
+- Speech processing
+- API integration
+- Backend orchestration
+- Conversational AI pipelines
 ## 📂 Project Structure
 ```
 AI_Doctor
