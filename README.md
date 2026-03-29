@@ -11,6 +11,8 @@ This project demonstrates end-to-end integration of AI APIs, speech processing, 
 - 🔊 **Text-to-Speech Response** - Converts AI-generated responses into natural voice using gTTS or ElevenLabs.
 - ⚡ **End-to-End Pipeline** - Voice → AI Analysis → Voice Response interaction pipeline.
 
+  
+
  # 🏗 System Architecture
  ```
  Patient Voice Input + Image Upload
@@ -106,4 +108,7 @@ This system demonstrates how multimodal AI assistants can support healthcare by:
 - enabling voice-based medical interaction
 - assisting in remote health guidance
 - supporting telemedicine and accessibility
+
+## 📜 License
+This project is developed for educational and research purposes only and should not be used for real medical diagnosis.
 
