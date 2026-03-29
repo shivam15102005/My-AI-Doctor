@@ -10,8 +10,10 @@ This project demonstrates end-to-end integration of AI APIs, speech processing, 
 - 🖼 **Image-Based Health Analysis** - Processes facial images to detect potential visible conditions.
 - 🔊 **Text-to-Speech Response** - Converts AI-generated responses into natural voice using gTTS or ElevenLabs.
 - ⚡ **End-to-End Pipeline** - Voice → AI Analysis → Voice Response interaction pipeline.
+  ## Images
+**Patient Audio Recording** 
+![Alt img](https://github.com/shivam15102005/My-AI-Doctor/blob/main/Patient%20Audio.png)
 
-  
 
  # 🏗 System Architecture
  ```
